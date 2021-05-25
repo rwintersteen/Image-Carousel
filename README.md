@@ -1,1 +1,1 @@
-# Image-Carousel
+A practice activity that demonstrates my knowledge of JavaScript skills. 
